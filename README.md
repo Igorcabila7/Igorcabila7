@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Igor Cabila 👋
 **👨‍💻️`Desenvolvedor`**
 
-Me chamo Igor Joaquim Cabila, tenho 20 anos e sou natural de Luanda em Angola. Concluí o ensino médio no Instituto Girassol, com o curso técnico em informática. Atualmente, estou cursando Engenharia Informatica. Sou apaixonado por tecnologia.
+Me chamo Igor Joaquim Cabila, tenho 20 anos e sou natural de Luanda em Angola. Concluí o ensino médio no Instituto Girassol, com o curso técnico em informática. Atualmente, estou cursando Engenharia Informatica. Sou Freelancer e apaixonado por tecnologia.
 
 - 🔭 Trabalho com Back-End
 - 🌱 Estou estudando JS e HTML/CSS
